@@ -6,13 +6,13 @@
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-423f3f?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Typescript-423f3f?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-423f3f?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-423f3f?style=flat&logo=github)
 ![HTML](https://img.shields.io/badge/-HTML-423f3f?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-423f3f?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-423f3f?style=flat&logo=SASS)
 ![ESLint](https://img.shields.io/badge/ESLint-423f3f?style=flat&logo=eslint)
-![TypeScript](https://img.shields.io/badge/Typescript-423f3f?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-423f3f?style=flat&logo=react)
 ![Redux Toolkit](https://img.shields.io/badge/ReduxToolkit-423f3f?style=flat&logo=redux)
 ![React Router](https://img.shields.io/badge/React_Router-423f3f?style=flat&logo=react-router)
